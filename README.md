@@ -6,3 +6,6 @@ Este texto representa mi primer commit con GitHub.
 Este texto representa mi segundo commit con GitHub
 
 Este texto es el tercer commit y fue generado con GitHub desktop
+
+
+Este texto corresponde al control de versiones con VSC
